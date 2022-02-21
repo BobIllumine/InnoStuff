@@ -7,6 +7,6 @@ Here you can find books, lecture/tutorial slides and merges, assignments and (ma
 Any kind of cooperation is appreciated (bugs, proposals, etc.)
 If you want to contribute, either pm me in tg, or create a pull request.
 
-Contact info: [@HeredisStultus](t.me/HeredisStultus)
+Contact info: [@HeredisStultus](https://t.me/HeredisStultus)
 
-Check the channel: [@inno_huino]( t.me/inno_huino)
+Check the channel: [@inno_huino]( https://t.me/inno_huino)
