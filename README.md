@@ -9,4 +9,4 @@ If you want to contribute, either pm me in tg, or create a pull request.
 
 Contact info: [@HeredisStultus](https://t.me/HeredisStultus)
 
-Check the channel: [@inno_huino]( https://t.me/inno_huino)
+Check out the channel: [@inno_huino]( https://t.me/inno_huino)
