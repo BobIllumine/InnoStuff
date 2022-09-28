@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+service Server {
+  rpc reverse(ReverseRequest) returns (ReverseResponse);
+  rpc split(SplitRequest) returns (SplitResponse);
+  rpc isprime(stream IsPrimeRequest) returns (stream IsPrimeResponse);
+}
+
+message ReverseRequest {
+  string message = 1;
+}
+
+message ReverseResponse {
+  string message = 1;
+}
+
+message IsPrimeRequest {
+  int64 message = 1;
+}
+
+message IsPrimeResponse {
+  string message = 1;
+}
+
+message SplitRequest {
+  string message = 1;
+  string delim = 2;
+}
+
+message SplitResponse {
+  int32 length = 1;
+  repeated string parts = 2;
+}
