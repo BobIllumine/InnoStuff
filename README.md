@@ -1,4 +1,4 @@
-# InnoStuff [S22]
+# InnoStuff
 ## Source-sharing repo for B20 course
 -----------------------------------------------------------
 
